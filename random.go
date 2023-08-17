@@ -1,4 +1,4 @@
-package randominfo
+package simplebankpackage
 
 import (
 	"math/rand"
